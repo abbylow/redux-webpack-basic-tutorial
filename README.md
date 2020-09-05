@@ -45,3 +45,4 @@ path.resolve(): get the actual path, the first parameter is the current director
 webpack-dev-server: will automatically reload when there is any new changes
 --open: open a new browser tab
 
+This tutorial is conducted and prepared by Prem Raj
